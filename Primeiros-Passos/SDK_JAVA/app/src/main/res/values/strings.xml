@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SDK_JAVA</string>
+    <string name="add_some_new_option">Add some new option</string>
+    <string name="lista_de_options">Lista de Options</string>
+    <string name="salvar">Salvar</string>
+    <string name="email">Email</string>
+    <string name="numero">Numero</string>
+    <string name="nome">Nome</string>
+</resources>
